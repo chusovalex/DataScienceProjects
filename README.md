@@ -42,7 +42,7 @@ Python, Pandas, Seaborn, SciPy, NumPy, проверка статистическ
 На основе данных из банка определить клиента, который может уйти.
 \
 **Инструменты и навыки:**\
-Pandas, Pandas, Matplotlib, Scikit-learn
+Pandas, Pandas, Matplotlib, Scikit-learn, imblearn
 
 ### [6. Определение наиболее выгодного региона нефтедобычи]
 
