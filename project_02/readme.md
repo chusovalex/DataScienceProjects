@@ -1,4 +1,4 @@
-## [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/chusovalex/DataScienceProjects/blob/main/project_02/project_02_real_estate_market_research.ipynb)
+### [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/chusovalex/DataScienceProjects/blob/main/project_02/project_02_real_estate_market_research.ipynb)
 
 **Задача проекта:**\
 Используя данные сервиса Яндекс.Недвижимость, установить параметры, влияющие на стоимость и продажи квартир в Санкт-Петербурге и соседних населенных пунктах.
