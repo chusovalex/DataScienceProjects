@@ -36,13 +36,13 @@ Python, Pandas, Seaborn, SciPy, NumPy, проверка статистическ
 **Инструменты и навыки:**\
 Python, Pandas, Seaborn, SciPy, NumPy, проверка статистических гипотез
 
-### [5. Прогнозирование оттока клиента Банка](https://github.com/chusovalex/DataScienceProjects/tree/main/project_05)
+### [5. Прогнозирование оттока клиентов Банка](https://github.com/chusovalex/DataScienceProjects/tree/main/project_05)
 
 **Задача проекта:**\
-На основе данных из банка определить клиента, который может уйти.
+На основе данных из банка определить клиентов, которые могут уйти.
 
 **Инструменты и навыки:**\
-Pandas, Pandas, Matplotlib, Scikit-learn, imblearn
+Pandas, Pandas, Seaborn, Scikit-learn, imblearn
 
 ### [6. Определение наиболее выгодного региона нефтедобычи](https://github.com/chusovalex/DataScienceProjects/tree/main/project_06)
 
