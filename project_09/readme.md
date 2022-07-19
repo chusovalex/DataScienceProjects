@@ -1,4 +1,4 @@
-### [Предсказание цены автомобиля]()
+### [Предсказание цены автомобиля](https://github.com/chusovalex/DataScienceProjects/blob/main/project_09/project_09_car_price_estimation.ipynb)
 
 **Задача проекта:**\
 Разработка системы рекомендации стоимости автомобиля на основе его описания.
