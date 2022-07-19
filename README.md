@@ -73,7 +73,7 @@ Python, Pandas, NumPy, Scikit-learn
 Разработка системы рекомендации стоимости автомобиля на основе его описания.
 
 **Инструменты и навыки:**\
-Python, Pandas, Scikit-learn, LightGBM
+Python, Pandas, Scikit-learn, CatBoost, LightGBM
 
 ### [10. Прогнозирование количества заказов такси](https://github.com/chusovalex/DataScienceProjects/tree/main/project_10)
 **Задача проекта:**\
