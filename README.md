@@ -85,7 +85,7 @@ Python, Pandas, PlotlyExpress, Scikit-learn, CatBoost, LightGBM, SciPy, врем
 
 ### [11. Анализ тональности текста]
 **Задача проекта:**\
-Определение токсичности комментариев.
+Определение токсичности комментариев в описаниях товаров интернет-магазина
 \
 **Инструменты и навыки:**\
 Python, Pandas, Matplotlib, Scikit-learn, re, NLP, NLTK
