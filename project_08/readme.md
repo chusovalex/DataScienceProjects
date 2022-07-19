@@ -1,4 +1,4 @@
-### [Защита персональных данных клиентов страховой компании]()
+### [Защита персональных данных клиентов страховой компании](https://github.com/chusovalex/DataScienceProjects/blob/main/project_08/project_08_personal_data_protection.ipynb)
 
 **Задача проекта:**\
 Разработка модели анонимизации персональных данных.
