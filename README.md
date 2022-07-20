@@ -87,4 +87,4 @@ Python, Pandas, PlotlyExpress, Scikit-learn, CatBoost, LightGBM, SciPy, врем
 Определение токсичности комментариев в описаниях товаров интернет-магазина
 
 **Инструменты и навыки:**\
-Python, Pandas, Seaborn, Scikit-learn, re, NLP, NLTK
+Python, Pandas, Seaborn, Scikit-learn, re, Spacy, NLTK
