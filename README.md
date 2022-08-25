@@ -88,3 +88,10 @@ Python, Pandas, PlotlyExpress, Scikit-learn, CatBoost, LightGBM, SciPy, врем
 
 **Инструменты и навыки:**\
 Python, Pandas, Seaborn, Scikit-learn, re, Spacy, NLTK
+
+### [12. Компьютерное зрение - определение возраста по фото](https://github.com/chusovalex/DataScienceProjects/tree/main/project_12)
+**Задача проекта:**\
+Построение модели глубокого обучения для определения возраста покупателя по фото.
+
+**Инструменты и навыки:**\
+Python, Pandas, Seaborn, TensorFlow, Keras.
